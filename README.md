@@ -1,4 +1,4 @@
-# 🌟 My Portfolio Repository
+# My Portfolio Repository
 
 Welcome to my personal portfolio!  
 This repository contains a collection of my projects in **coding, data analysis, academic research, and media design**.  
