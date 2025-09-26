@@ -7,7 +7,7 @@ It is intended to showcase my technical expertise, problem-solving skills, and c
 - **Coding Projects** → Web applications, Python scripts, and automation tools.  
 - **Data Analysis** → Exploratory Data Analysis (EDA), visualization, dashboards, and sentiment analysis.  
 - **Academic Works** → Research-related implementations and case studies.  
-- **Media & Demonstrations** → Video demos, UI/UX prototypes, and creative works.  
+- **Media & Demonstrations** → UI/UX prototypes and creative works.  
 
 ## 🛠️ Tech Stack
 - **Languages & Frameworks**: Python, PHP, JavaScript, Laravel, Bootstrap  
