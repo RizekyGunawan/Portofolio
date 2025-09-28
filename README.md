@@ -43,6 +43,5 @@ It reflects my expertise in transforming raw data into insights and producing cr
 
 - 📧 Email: muh.rizeky@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/muhrizeky](https://linkedin.com/in/muhrizeky)  
-- 💻 GitHub: [github.com/muhrizeky](https://github.com/muhrizeky)  
 
 ✨ This repository is continuously updated with new projects and learning outcomes.
