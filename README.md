@@ -1,4 +1,4 @@
-# 🌟 My Portfolio Repository
+# My Portfolio Repository
 
 Welcome to my personal portfolio!  
 This repository highlights my works in **data analysis** and **video editing projects**.  
@@ -44,4 +44,4 @@ It reflects my expertise in transforming raw data into insights and producing cr
 - 📧 Email: muh.rizeky@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/muhrizeky](https://linkedin.com/in/muhrizeky)  
 
-✨ This repository is continuously updated with new projects and learning outcomes.
+This repository is continuously updated with new projects and learning outcomes.
