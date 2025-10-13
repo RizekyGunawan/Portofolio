@@ -1,6 +1,5 @@
 # My Portfolio Repository
 
-Welcome to my personal portfolio!  
 This repository highlights my works in **data analysis** and **video editing projects**.  
 It reflects my expertise in transforming raw data into insights and producing creative visual content for institutional purposes.  
 
