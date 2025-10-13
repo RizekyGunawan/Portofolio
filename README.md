@@ -1,4 +1,4 @@
-# My Portfolio Repository
+# Portfolio Repository
 
 This repository highlights my works in **data analysis** and **video editing projects**.  
 It reflects my expertise in transforming raw data into insights and producing creative visual content for institutional purposes.  
