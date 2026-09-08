@@ -32,7 +32,7 @@ It reflects my expertise in transforming raw data into insights and producing cr
 
 ## 🛠️ Tools & Technologies
 
-- **Data & Analytics**: Python (Pandas, Scikit-learn, NLTK), Google Colab, RapidMiner, Tableau  
+- **Data & Analytics**: Python, Google Colab, RapidMiner, Tableau  
 - **Video Editing & Media**: Capcut, Canva, Figma  
 - **Other Skills**: Critical thinking, problem-solving, teamwork, adaptability  
 
