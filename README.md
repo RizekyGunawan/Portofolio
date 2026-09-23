@@ -1,46 +1,35 @@
-# Portfolio Repository
+# Portfolio: Data Analysis & Creative Media
 
-This repository highlights my works in **data analysis** and **video editing projects**.  
-It reflects my expertise in transforming raw data into insights and producing creative visual content for institutional purposes.  
-
----
-
-## 📂 Contents
-
-- **data-analysis/** → Text mining, sentiment analysis, and machine learning projects (data scraping, cleaning, preprocessing, TF-IDF weighting, Naïve Bayes classification).  
-- **media/** → Video editing and creative works, including official institutional video projects.  
+This repository serves as a showcase of my technical and creative projects, focusing on **Data Analysis** and **Multimedia Production**. It highlights my ability to extract actionable insights from data and deliver high-quality visual content for institutional communication.
 
 ---
 
-## 🔹 Data Analysis
+## Data Analysis
+Projects focused on Text Mining, Sentiment Analysis, and end-to-end data processing workflows.
 
-- Collected raw datasets through **scraping from online platforms**.  
-- Performed **data cleaning and preprocessing** (tokenization, case folding, stopword removal, stemming).  
-- Applied **TF-IDF weighting** to transform text into numerical features.  
-- Implemented **Naïve Bayes classification** for sentiment analysis.  
-- Evaluated models with **Confusion Matrix, Accuracy, Precision, and Recall**.  
+* **Technical Scope:** Data scraping, text preprocessing (tokenization, stopword removal, stemming), and TF-IDF weighting.
+* **Machine Learning:** Implementation of Naïve Bayes classification for sentiment prediction.
+* **Model Evaluation:** Performance validation using Confusion Matrix, Accuracy, Precision, and Recall.
+* **View Projects:** [`/data-analysis`](./data-analysis)
 
----
+## Creative Media & Video Editing
+Visual design and official video editing projects developed for public outreach and digital communication.
 
-## 🎥 Video Editing
-
-- Edited official videos for institutional communication and outreach.  
-- Responsible for **transitions, visual enhancements, and final rendering**.  
-- Projects published directly by institutions on their **official YouTube channels and social media**.  
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Data & Analytics**: Python, Google Colab, RapidMiner, Tableau  
-- **Video Editing & Media**: Capcut, Canva, Figma  
-- **Other Skills**: Critical thinking, problem-solving, teamwork, adaptability  
+* **Technical Scope:** Visual enhancements, dynamic transitions, graphic integration, and final rendering.
+* **Deliverables:** High-quality multimedia content published on official institutional platforms and social media channels.
+* **View Projects:** [`/media`](./media)
 
 ---
 
-## 📫 Contact
+## Tools & Technologies
+* **Data & Analytics:** Python (Jupyter / Google Colab), RapidMiner, Tableau
+* **Creative & Design:** CapCut, Canva, Figma
+* **Core Competencies:** Analytical problem-solving, critical thinking, and technical adaptability
 
-- 📧 Email: muh.rizeky@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/muhrizeky](https://linkedin.com/in/muhrizeky)  
+---
 
-This repository is continuously updated with new projects and learning outcomes.
+## Contact
+I am currently open to professional opportunities and collaborative projects. 
+
+* **Email:** [muh.rizeky@gmail.com](mailto:muh.rizeky@gmail.com)
+* **LinkedIn:** [linkedin.com/in/muhrizeky](https://www.linkedin.com/in/muhrizeky)
