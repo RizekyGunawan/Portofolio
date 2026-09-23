@@ -1,4 +1,4 @@
-# 🖼️ Kemenko PMK Information Security Infographic
+# Kemenko PMK Information Security Infographic
 
 ## 📌 Project Overview
 
